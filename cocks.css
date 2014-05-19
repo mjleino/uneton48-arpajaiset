@@ -1,0 +1,32 @@
+body {
+	background: url("bg.jpg") no-repeat center center fixed;
+	background-size: cover;
+	font-family: 'Open Sans', sans-serif;
+}
+
+#random {
+	background: url("") no-repeat center center fixed;
+	background-size: cover;
+	position: fixed;
+	top: 0;
+	left: 0;
+	min-width: 100%;
+	min-height: 100%;	
+}
+
+#team {
+	position: absolute;
+	bottom: 0.5em;
+	font-size: 32pt;
+	width: 100%;
+	text-align: center;
+
+}
+
+#progress {
+	position: absolute;
+	bottom: 10px;
+	font-size: 16pt;
+	right: 10px;
+	margin: 0;
+}
